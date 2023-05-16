@@ -2,7 +2,7 @@
 body{
     background-color: #ffffff;
     display: flex;
-    justify-content:left;
+    justify-content:right;
     margin-top:5%;
     margin-bottom:5%;
 }
